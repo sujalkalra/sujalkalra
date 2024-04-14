@@ -21,7 +21,7 @@
 
 <p align="left">
 
-<a href="https://instagram.com/_rupendrasinghrajawat_" target="blank"></a>
+<a href="https://instagram.com/kalrasujal" target="blank"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
@@ -34,6 +34,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pc"  width="40" height="40"/>
 
 </p>
+
+
 
 
 
