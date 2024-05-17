@@ -35,8 +35,7 @@
 
 </p>
 
-
-
+<a href="https://app.daily.dev/sujalkalra"><img src="https://api.daily.dev/devcards/v2/2DvLWirewh8DbYMBouwY5.png?type=wide&r=yj7" width="652" alt="Sujal Kalra's Dev Card"/></a>
 
 
 Here are some ideas to get you started:
