@@ -45,11 +45,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pc"  width="40" height="40"/>
 
 </p>
+<a href="https://app.daily.dev/sujalkalra"><img src="https://api.daily.dev/devcards/v2/2DvLWirewh8DbYMBouwY5.png?type=wide&r=4oj" width="652" alt="Sujal Kalra's Dev Card"/></a>
 
-<a href="https://app.daily.dev/sujalkalra"><img src="https://api.daily.dev/devcards/v2/2DvLWirewh8DbYMBouwY5.png?type=wide&r=yj7" width="652" alt="Sujal Kalra's Dev Card"/></a>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a Student at VIT(AP)
 - 🌱 I’m currently learning  Cloud Computing and Prompt Engineering.
