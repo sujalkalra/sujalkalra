@@ -8,13 +8,40 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RupendraSinghRajawat&label=Profile%20views&color=0e75b6&style=flat" alt="err" /></p>
+<div align="center"> 
+  
+<h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+<h2 align="center">Leetcode Info<h2>
+
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+
+
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=sujalkalra&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sujalkalra&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+  <br/>
+
+<br/><br/>
+
+
+
+
 
 - 📫 How to reach me *kalrasujal322@gmail.com*
 - My Portfolio *still working on it*
-
 - ⚡ Fun fact *"Did you know that the entirety of the internet weighs about the same as a single grain of sand? According to physicist Russell Seitz, the internet is estimated to weigh around 50 grams (about 0.11 pounds), which is roughly equivalent to the weight of a single strawberry or a small paperclip. This weight includes the data stored in all the servers, the information transmitted through cables and wireless signals, and even the weight of the electrons moving through the network."
 - *"In 1994, mathematician and computer scientist Peter Shor developed an algorithm that showed how a quantum computer could factorize large numbers exponentially faster than any known classical algorithm. This algorithm, known as Shor's Algorithm, has significant implications for cryptography."*
 
