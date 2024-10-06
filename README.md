@@ -15,10 +15,14 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 <h2 align="center">Leetcode Info<h2>
-
+<p align="center">
+  
+</p>
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?ext=contest" />  
+
 </p>
 
 
