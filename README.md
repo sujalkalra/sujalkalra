@@ -41,7 +41,7 @@
 
 
 - 📫 How to reach me *kalrasujal322@gmail.com*
-- My Portfolio *still working on it*
+- My Portfolio *https://sujalkalra.github.io/portfolio/*
 - ⚡ Fun fact *"Did you know that the entirety of the internet weighs about the same as a single grain of sand? According to physicist Russell Seitz, the internet is estimated to weigh around 50 grams (about 0.11 pounds), which is roughly equivalent to the weight of a single strawberry or a small paperclip. This weight includes the data stored in all the servers, the information transmitted through cables and wireless signals, and even the weight of the electrons moving through the network."
 - *"In 1994, mathematician and computer scientist Peter Shor developed an algorithm that showed how a quantum computer could factorize large numbers exponentially faster than any known classical algorithm. This algorithm, known as Shor's Algorithm, has significant implications for cryptography."*
 
