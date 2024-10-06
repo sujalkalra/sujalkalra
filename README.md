@@ -20,8 +20,8 @@
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=dark&font=Nunito&ext=heatmap" />  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?ext=contest" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&ext=contest" />  
 
 </p>
 
