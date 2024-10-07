@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujal</h1>
+<div align="center" >
+<img alt="rgb" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = '1000' />
+</div>
 <h3 align="center">i am a competitive coder ☕ and Software Engineer 🧑🏼‍💻.</h3>
 
 <div align="center">
@@ -21,10 +24,10 @@
   
 </p>
 <p align="center">
-  <img alt="rgb" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-  <img  align=top flex-grow=2 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&font=Nunito&ext=heatmap" />  
-  <img  align=top flex-grow=2 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&ext=contest" />  
-  <img alt="rgb" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+  <img alt="rgb" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  width = '1000'/>
+  <img  align=top flex-grow=2 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&font=Nunito&ext=heatmap" width="500" />  
+  <img  align=top flex-grow=2 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&ext=contest" width="500" />  
+  <img alt="rgb" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = '1000' />
 
 </p>
 
