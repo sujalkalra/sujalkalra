@@ -13,15 +13,19 @@
   
 <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    
+
 </div>
 <h2 align="center">Leetcode Info<h2>
 <p align="center">
   
 </p>
 <p align="center">
-  
+  <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
   <img  align=top flex-grow=2 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&font=Nunito&ext=heatmap" />  
+  <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
   <img  align=top flex-grow=2 src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=transparent&ext=contest" />  
+  <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 </p>
 
