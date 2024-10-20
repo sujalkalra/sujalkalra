@@ -18,7 +18,7 @@
 
 <div align="center">
     <h2>🐍 Contributions 🐍</h2>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 <h2 align="center">Leetcode Info</h2>
