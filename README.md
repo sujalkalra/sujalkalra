@@ -48,18 +48,73 @@
 - ⚡ Fun fact: "In 1994, Peter Shor developed an algorithm showing how a quantum computer could factorize large numbers exponentially faster than classical algorithms, impacting cryptography."
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+PROGRAMMING LANGUAGES 🌱:
+<br></br>
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="80" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" />
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/python.png" alt="python" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/java.png" alt="java" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/js.png" alt="javascript" width="40" height="40" />
 </p>
+
+DATABASE LANGUAGES 🌟:
+<br></br>
+<p align="left">
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/mysql.png" alt="mysql" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/mongo.png" alt="mongo" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/redis.png" alt="redis" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/cassendra.png" alt="cassendra" width="40" height="40" />
+</p>
+
+LIBRARIES AND FRMs 🔱:
+<br></br>
+<p align="left">
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/django.png" alt="django" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/flask.png" alt="flask" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/expressjs.png" alt="expressjs" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/fastapi.png" alt="fastapi" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/reactjs.png" alt="reactjs" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/tensorflow.png" alt="tensorflow" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/selenium.png" alt="selenium" width="40" height="40" />
+</p>
+
+DEV TOOLS & CLOUD SERVICES 🚀:
+<br></br>
+<p align="left">
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/aws.png" alt="aws" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/github.png" alt="github" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/vscode.png" alt="vscode" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/vercel.png" alt="vercel" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/supabase.png" alt="supabase" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/raspberry.png" alt="raspberry" width="40" height="40" />
+</p>
+
+SOCIAL MEDIA 🌐:
+<br></br>
+<p align="left">
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/linkedin.png" alt="linkedin" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/insta.png" alt="instagram" width="40" height="40" />
+</p>
+
+
 
 <div align="center">
     <a href="https://app.daily.dev/sujalkalra"></a>
