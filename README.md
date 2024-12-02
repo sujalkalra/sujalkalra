@@ -46,7 +46,7 @@
 
 - 📫 How to reach me: <a href="mailto:kalrasujal322@gmail.com">kalrasujal322@gmail.com</a>
 - 🌐 My Portfolio: [My Portfolio](https://sujalnextweb.vercel.app)
-- 📖 My GuestBook: [Guestbook](https://suji-guestbook-9f2j.vercel.app/)
+- 📖 My GuestBook: [Guestbook](https://suji-guestbook.vercel.app/)
 - ⚡ Fun fact: "Did you know that the entirety of the internet weighs about the same as a single grain of sand? According to physicist Russell Seitz, it's around 50 grams, roughly equivalent to a small paperclip."
 - ⚡ Fun fact: "In 1994, Peter Shor developed an algorithm showing how a quantum computer could factorize large numbers exponentially faster than classical algorithms, impacting cryptography."
 
