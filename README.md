@@ -124,9 +124,9 @@ SOCIAL MEDIA 🌐:
 <h3 align="center">About Me</h3>
 
 - 🔭 I’m currently a Student at VIT(AP)
-- 🌱 I’m currently learning Cloud Computing and Prompt Engineering
+- 🌱 I’m currently learning Artificial Intelligence & Machine Learning
 - 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with Cloud Computing
+- 🤔 I’m looking for help with Automation Projects
 - 💬 Ask me about Python, DSA, and Coffee ☕
 - 📫 How to reach me: kalrasujal322@gmail.com
 - 😄 Pronouns: he/him
