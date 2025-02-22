@@ -56,6 +56,8 @@ PROGRAMMING LANGUAGES 🌱:
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/java.png" alt="java" width="40" height="40" />
     &nbsp; &nbsp;
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/js.png" alt="javascript" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/typescript.png" alt="typescript" width="40" height="40" />
 </p>
 
 DATABASE LANGUAGES 🌟:
@@ -68,6 +70,8 @@ DATABASE LANGUAGES 🌟:
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/redis.png" alt="redis" width="40" height="40" />
     &nbsp; &nbsp;
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/cassendra.png" alt="cassendra" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/prisma.png" alt="prisma" width="40" height="40" />
 </p>
 
 LIBRARIES AND FRMs 🔱:
