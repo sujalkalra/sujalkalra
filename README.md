@@ -85,11 +85,14 @@ LIBRARIES AND FRMs 🔱:
     &nbsp; &nbsp;
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/fastapi.png" alt="fastapi" width="40" height="40" />
     &nbsp; &nbsp;
-    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/reactjs.png" alt="reactjs" width="40" height="40" />
-    &nbsp; &nbsp;
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/tensorflow.png" alt="tensorflow" width="40" height="40" />
     &nbsp; &nbsp;
     <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/selenium.png" alt="selenium" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/reactjs.png" alt="reactjs" width="40" height="40" />
+    &nbsp; &nbsp;
+    <img src="https://github.com/sujalkalra/devicons/blob/main/devicons/nextjs.png" alt="nextjs" width="40" height="40" />
+    &nbsp; &nbsp;
 </p>
 
 DEV TOOLS & CLOUD SERVICES 🚀:
