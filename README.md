@@ -54,7 +54,7 @@
 
 <h2 align="center">🌎 Social Media</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/sujalkalra" target="_blank">
+    <a href="https://www.linkedin.com/in/compilersuji" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
     </a>
     &nbsp; &nbsp;
