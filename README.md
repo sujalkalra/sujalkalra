@@ -58,7 +58,7 @@
         <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
     </a>
     &nbsp; &nbsp;
-    <a href="https://www.instagram.com/sujalkalra" target="_blank">
+    <a href="https://www.instagram.com/compilersuji" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
     </a>
 </div>
