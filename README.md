@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 
-<div align="center">
-    <img alt="rgb" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
-</div>
+
 
 <h3 align="center">I am a Computer Science student ☕ and Software Engineer 🧑🏼‍💻.</h3>
 
