@@ -45,7 +45,7 @@
 <h2 align="center">🛠 Languages & Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" height="50"/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,express,fastapi" height="50"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,express,fastapi,selenium" height="50"/>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,prisma" height="50"/>
     <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,vercel,supabase" height="50"/>
 </div>
