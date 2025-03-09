@@ -2,9 +2,9 @@
 
 <h3 align="center">I am a Computer Science student ☕ and Software Engineer 🧑🏼‍💻.</h3>
 
-<div align="center">
+<div style="text-align: center;">
     <a href="#">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=00FFFF&width=470&lines=Hello+Fellow+%3C%2FDevelopers%3E;Keep+Learning+%26+Building+%F0%9F%94%A7;Code%2C+Debug%2C+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=100&color=00FFFF&width=900&lines=Keep+Learning+%26+Building+%F0%9F%94%A7;Code%2C+Debug%2C+Repeat+%F0%9F%9A%80;Pardon+My+Complexity+in+World+Data+Insane+%F0%9F%94%B1" alt="Typing SVG" />
     </a>
 </div>
 
