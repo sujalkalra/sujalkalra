@@ -18,7 +18,8 @@
 
 <h2 align="center">📊 Leetcode Stats</h2>
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/SUJAL_KALRA?theme=dark&font=Nunito&ext=heatmap" width="500" style="border-radius: 10px;"/>
+    <!-- Leetcode Section (1st Column) -->
+      <img src="https://leetcard.jacoblin.cool/SUJAL_KALRA ?theme=dark&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </p>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
