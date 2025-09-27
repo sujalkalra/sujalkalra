@@ -63,5 +63,4 @@
     </a>
 </div>
 
-[![I just got my own death prediction from the Death Clock](https://www.death-clock.org/makeimg.php?dod=Tuesday, 17th May&yod=2072&aod=Age 69)](https://www.death-clock.org)
-
+[![I just got my own death prediction from the Death Clock](https://www.death-clock.org/makeimg.php?dod=Tuesday,%2017th%20May&yod=2072&aod=Age%2069)](https://www.death-clock.org)
