@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "owner": "Sujal Kalra",
+  "last_updated": "2026-04-04",
+  "skills": [
+    {"category": "Programming", "skill": "Python", "proficiency": "Advanced"},
+    {"category": "Programming", "skill": "TypeScript", "proficiency": "Intermediate"},
+    {"category": "Backend", "skill": "API Design", "proficiency": "Advanced"},
+    {"category": "Backend", "skill": "System Design", "proficiency": "Intermediate"},
+    {"category": "Reliability", "skill": "Testing", "proficiency": "Advanced"},
+    {"category": "Reliability", "skill": "Observability", "proficiency": "Intermediate"},
+    {"category": "DevOps", "skill": "CI/CD", "proficiency": "Intermediate"}
+  ]
+}
