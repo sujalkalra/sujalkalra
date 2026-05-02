@@ -43,12 +43,74 @@
 ---
 
 <h2 align="center">🛠 Languages & Tools</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" height="50"/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,express,fastapi,selenium" height="50"/>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,prisma" height="50"/>
-    <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,vercel,supabase" height="50"/>
-</div>
+<table>
+  <tr>
+    <td><strong>Frontend & Design</strong></td>
+    <td><strong>DevOps</strong></td>
+    <td><strong>Editors</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,rider&theme=dark">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Databases</strong></td>
+    <td><strong>Systems</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,js">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,cassandra&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,windows">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td><strong>electronics</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flask,django,fastapi,express,springboot&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark">
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<hr>
+
+## 👨‍💻 Competitive Coding Profile
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <!-- Leetcode Section (1st Column) -->
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Leetcode Info</h3>
+      <img src="https://leetcard.jacoblin.cool/satwika-55 ?theme=unicorn&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
+
+  
+  <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Codeforces Info</h3>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=satwika_55" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
