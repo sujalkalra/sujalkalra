@@ -107,7 +107,7 @@
   
   <td style="width: 50%; padding: 10px; text-align: center;">
       <h3>Codeforces Info</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Compilersuji" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=compilersuji" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
