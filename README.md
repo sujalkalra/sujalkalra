@@ -16,11 +16,6 @@
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h2 align="center">📊 Leetcode Stats</h2>
-<p align="center">
-    <!-- Leetcode Section (1st Column) -->
-      <img src="https://leetcard.jacoblin.cool/SUJAL_KALRA ?theme=dark&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-</p>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
