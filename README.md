@@ -89,13 +89,7 @@
 
 <hr>
 
-## 👨‍💻 Competitive Coding Profile
-
-<table style="width: 100%; text-align: center; border-collapse: collapse;">
-  <tr>
-    <!-- Leetcode Section (1st Column) --
-
-  
+## 👨‍💻 Competitive Coding Profile  
   <td style="width: 50%; padding: 10px; text-align: center;">
       <h3>Codeforces Info</h3>
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=compilersuji" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
