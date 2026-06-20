@@ -90,9 +90,19 @@
 <hr>
 
 ## 👨‍💻 Competitive Coding Profile  
-  <td style="width: 50%; padding: 10px; text-align: center;">
+
+
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top;">
       <h3>Codeforces Info</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=compilersuji" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=compilersuji" 
+           style="width: 100%; max-width: 450px; height: 200px; object-fit: contain; display: block; margin: 0 auto;" />
+    </td>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top;">
+      <h3>LeetCode Info</h3>
+      <img src="https://leetcard.jacoblin.cool/Compiler_Suji?theme=dark&font=Nothing%20You%20Could%20Do&ext=contest" 
+           style="width: 100%; max-width: 450px; height: 200px; object-fit: contain; display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
